@@ -1,0 +1,19 @@
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  justify-content: center;
+}
+.container {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  width: 70vw;
+  border-radius: 10px;
+}
+.list-items-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}

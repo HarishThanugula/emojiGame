@@ -1,0 +1,17 @@
+.emoji {
+  list-style-type: none;
+  background-color: #ffffff33;
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 5px;
+  margin-bottom: 10px;
+  border: solid 1px #ffffff;
+}
+.emoji-img {
+  width: 75px;
+  height: 75px;
+}
